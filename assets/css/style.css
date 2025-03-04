@@ -363,7 +363,7 @@ h2 {
 
 #drawBallDiv {
     position: absolute;
-    top: 265px;
+    top: 305px;
     left: 48px;
     pointer-events: auto;
     transition: 0.1s;
@@ -557,7 +557,7 @@ h2 {
     border-radius: 50%;
     width: 186px;
     height: 186px;
-    margin: 115px auto 30px;
+    margin: 130px auto 30px;
     cursor: pointer;
 }
 
@@ -820,7 +820,7 @@ h2 {
     height: 201px;
     background: rgba(0, 0, 0, 0);
     margin: 0 auto;
-    margin-top: 14px;
+    margin-top: 40px;
     display: flex;
     align-items: center;
     justify-content: center;

@@ -632,12 +632,12 @@ function toggleBlocker() {
 
 function setUpMasterBoard() {
     if (saveData.blockerEnabled === false) {
-        document.getElementById("showBoard").style.display = "none";
-        document.getElementById("hideBoard").style.display = "flex";
+        // document.getElementById("showBoard").style.display = "none";
+        // document.getElementById("hideBoard").style.display = "flex";
         document.getElementById("blocker").style.left = 1287 + "px";
     } else {
-        document.getElementById("hideBoard").style.display = "none";
-        document.getElementById("showBoard").style.display = "flex";
+        // document.getElementById("hideBoard").style.display = "none";
+        // document.getElementById("showBoard").style.display = "flex";
         document.getElementById("blocker").style.left = 255 + "px";
     }
     renderBingoStyle();
