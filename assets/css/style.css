@@ -371,14 +371,13 @@ h2 {
 
 #drawBallButton {
     opacity: .7;
-    cursor: pointer;
+    cursor: crosshair;
     width: 135px;
     height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 24px;
-    cursor: pointer;
     border: 1px solid #ffffff;
     border-radius: 15px;
     padding: 10px;
@@ -480,7 +479,7 @@ h2 {
 }
 
 .bingoLetter:hover {
-    cursor: pointer;
+    cursor: crosshair;
     opacity: .85;
 }
 
@@ -558,7 +557,7 @@ h2 {
     width: 186px;
     height: 186px;
     margin: 130px auto 30px;
-    cursor: pointer;
+    cursor: crosshair;
 }
 
 .bigBingoBallClass:hover {
@@ -636,7 +635,7 @@ h2 {
     margin: 4px 10px;
     font-size: 42px;
     font-weight: 900;
-    cursor: pointer;
+    cursor: crosshair;
     border-style: solid;
     border-width: 1px;
     border-color: #B6C9D7;
@@ -721,7 +720,7 @@ h2 {
     height: 61px;
     margin: 4.5px 10px;
     font-size: 52px;
-    cursor: pointer;
+    cursor: crosshair;
     color: #ffffff;
     opacity: 0.2;
 }
@@ -837,7 +836,7 @@ h2 {
 }
 
 .bingoCard:hover {
-    cursor: pointer;
+    cursor: crosshair;
     opacity: 0.75;
 }
 
@@ -904,7 +903,7 @@ h2 {
 }
 
 .bigBingoCardBody:hover {
-    cursor: pointer;
+    cursor: crosshair;
     background-color: #ddd;
 }
 
