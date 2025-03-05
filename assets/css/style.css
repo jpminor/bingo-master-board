@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Ashley Crawford';
-    src: url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.eot");
-    src: url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/354a03b198f85c0138478382b10565cb.svg#Ashley Crawford")format("svg");
+    src: url(./assets/fonts/AshleyCrawford.woff2) format('woff2'),
+        url(./assets/fonts/AshleyCrawford.woff) format('woff'),
+        url(./assets/fonts/AshleyCrawford.woff) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 
