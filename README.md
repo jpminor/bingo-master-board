@@ -8,7 +8,7 @@ Bingo Master Board for hosting BINGO games.
 * Change the look of the board with dark, light and brand color themes
 * Manually select balls if you're drawing physical balls in person
 
-Bingo Master Board is designed for full screen view in the browser and supports the latest versions of Edge, Firefox, Chrome.
+Bingo Master Board is designed for full screen view in the browser and supports the latest versions of Edge, Firefox, and Chrome. Unfortunately, Safari ruins most things.
 
 ## License
 Bingo Master Board is licensed under the MIT License.
